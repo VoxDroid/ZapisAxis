@@ -359,7 +359,7 @@ Need help with ZapisAxis? Check out our [Support Guide](SUPPORT.md) for resource
 
 ## License
 
-ZapisAxis is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the software, provided you include the original copyright notice and disclaimers.
+ZapisAxis is licensed under the [Apache License 2.0](LICENSE). You are free to use, modify, and distribute the software, provided you include the original copyright notice and disclaimers.
 
 ## Contact
 
