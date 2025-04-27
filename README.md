@@ -376,6 +376,8 @@ For questions, bug reports, or feature requests, please contact:
 - **MySQL and XAMPP**: For reliable database and server management.
 - **Open-Source Community**: For libraries like ClosedXML, PdfSharp, and Newtonsoft.Json.
 
+---
+
 <div align="center">
   <p><strong>Developed by <a href="https://github.com/VoxDroid">VoxDroid</a></strong></p>
   <p>Enjoying ZapisAxis? Consider supporting the project!</p>
